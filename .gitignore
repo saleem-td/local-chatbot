@@ -5,3 +5,4 @@ chromadb/
 *.pdf
 .venv/
 venv/
+chromadb/
